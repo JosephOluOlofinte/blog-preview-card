@@ -1,0 +1,16 @@
+@media (max-width: 375px) {
+    .card {
+      width: 327px;
+      height: 501;
+      background-color: aqua;
+    }
+
+    .card img {
+        height: 200px;
+        width: 279px;
+    }
+
+    .card-desc h2 {
+        font-size: 20px;
+    }
+  }
