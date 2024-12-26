@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/JosephOluOlofinte/product-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/JosephOluOlofinte/blog-preview-card)
+- Live Site URL: [Add live site URL here](https://josepholuolofinte.github.io/blog-preview-card/)
 
 ## My process
 
